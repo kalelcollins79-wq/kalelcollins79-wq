@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi, I'm Kal-el!
+
+I'm learning about Git, GitHub, and computers.
+I'm interested in pursuing cybersecurity.
+
+## My Links
+- [GitHub](https://github.com/kalelcollins79-wq)
+- [LinkedIn]((https://www.linkedin.com/in/kal-el-collins-431677447/))
 
 <!--
 **kalelcollins79-wq/kalelcollins79-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
